@@ -1,0 +1,22 @@
+html {
+    background: linear-gradient(191.97deg, #434343 33.33%, #323232 33.33%, #434343 33.33%);
+    box-shadow: inset 0px 10px 50px rgba(0, 0, 0, 0.7);
+    font-family: 'ralewaymedium';
+}
+
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    font-family: 'ralewaymedium';
+    font-style: normal;
+    font-weight: 600;
+    
+    color: #FFFFFF;
+}
+
+.nav a {
+    font-style: normal;
+    text-align: center;
+    color: #FFFFFF;
+}
